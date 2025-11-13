@@ -1,0 +1,36 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [160] using StatReload
+INFO:     Started server process [162]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:53928 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:53940 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53942 - "GET /api/banners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53954 - "GET /api/offers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53940 - "GET /api/banners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53942 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53954 - "GET /api/offers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34610 - "GET /api/banners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34614 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34616 - "GET /api/offers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34610 - "GET /api/banners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34614 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34616 - "GET /api/offers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:37534 - "GET /api/products?category=Mutton HTTP/1.1" 200 OK
+INFO:     172.20.0.1:37534 - "GET /api/products?category=Fish HTTP/1.1" 200 OK
+INFO:     172.20.0.1:37534 - "GET /api/products?category=Eggs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60616 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39088 - "GET /api/banners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39100 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39108 - "GET /api/offers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39088 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39100 - "GET /api/banners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39108 - "GET /api/offers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58080 - "GET /api/banners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58094 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58098 - "GET /api/offers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58080 - "GET /api/banners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58094 - "GET /api/offers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58098 - "GET /api/products?category=Chicken HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58098 - "GET /api/products?category=Fish HTTP/1.1" 200 OK
